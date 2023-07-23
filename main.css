@@ -46,13 +46,13 @@ a {
     transition: .5s;
     width: 85%;
     height: 60%;
-    transform: translate(-50%, -200%);
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, -200%);
-    -moz-transform: translate(-50%, -200%);
-    -ms-transform: translate(-50%, -200%);
-    -o-transform: translate(-50%, -200%);
+    transform: translate(-50%, -250%);
+    -webkit-transform: translate(-50%, -250%);
+    -moz-transform: translate(-50%, -250%);
+    -ms-transform: translate(-50%, -250%);
+    -o-transform: translate(-50%, -250%);
 }
 .control-end > span {
     position: fixed;
